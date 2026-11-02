@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Float Back</string>
+    <string name="service_desc">Shows a floating Back button above all apps. Tap = Back, long-press = Home, drag = move.</string>
+</resources>
